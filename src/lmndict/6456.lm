@@ -1,0 +1,225 @@
+Language model created by QuickLM on Sat Jun 17 01:42:12 EDT 2017
+Copyright (c) 1996-2010 Carnegie Mellon University and Alexander I. Rudnicky
+
+The model is in standard ARPA format, designed by Doug Paul while he was at MITRE.
+
+The code that was used to produce this language model is available in Open Source.
+Please visit http://www.speech.cs.cmu.edu/tools/ for more information
+
+The (fixed) discount mass is 0.5. The backoffs are computed using the ratio method.
+This model based on a corpus of 50 sentences and 52 words
+
+\data\
+ngram 1=52
+ngram 2=100
+ngram 3=50
+
+\1-grams:
+-0.7782 </s> -0.3010
+-0.7782 <s> -0.2218
+-2.4771 ABOUT -0.2218
+-2.4771 AND -0.2218
+-2.4771 AS -0.2218
+-2.4771 BOTTOM -0.2218
+-2.4771 CHANGE -0.2218
+-2.4771 CLOSE -0.2218
+-2.4771 COMMAND -0.2218
+-2.4771 COMMANDS -0.2218
+-2.4771 CONVERTER -0.2218
+-2.4771 COPY -0.2218
+-2.4771 CUT -0.2218
+-2.4771 DATE -0.2218
+-2.4771 DELETE -0.2218
+-2.4771 DISABLE -0.2218
+-2.4771 EDIT -0.2218
+-2.4771 ENABLE -0.2218
+-2.4771 EXIT -0.2218
+-2.4771 EXPORT -0.2218
+-2.4771 FILE -0.2218
+-2.4771 FIND -0.2218
+-2.4771 GOOGLE -0.2218
+-2.4771 HELP -0.2218
+-2.4771 HTML -0.2218
+-2.4771 LATEX -0.2218
+-2.4771 LAUNCH -0.2218
+-2.4771 LEFT -0.2218
+-2.4771 MAPPER -0.2218
+-2.4771 NEW -0.2218
+-2.4771 OFFLINE -0.2218
+-2.4771 OK -0.2218
+-2.4771 OPEN -0.2218
+-2.4771 ORIENTATION -0.2218
+-2.4771 PASTE -0.2218
+-2.4771 PDF -0.2218
+-2.4771 PREFERENCES -0.2218
+-2.4771 PRINT -0.2218
+-2.4771 REDO -0.2218
+-2.4771 REPLACE -0.2218
+-2.4771 RIGHT -0.2218
+-2.4771 RTF -0.2218
+-2.4771 SAVE -0.2218
+-2.4771 SETTINGS -0.2218
+-2.4771 SHORTCUT -0.2218
+-2.4771 STATUS -0.2218
+-2.4771 TIME -0.2218
+-2.4771 TOOLS -0.2218
+-2.4771 TOP -0.2218
+-2.4771 UNDO -0.2218
+-2.4771 VIEW -0.2218
+-2.4771 WIKI -0.2218
+
+\2-grams:
+-2.0000 <s> ABOUT 0.0000
+-2.0000 <s> AND 0.0000
+-2.0000 <s> AS 0.0000
+-2.0000 <s> BOTTOM 0.0000
+-2.0000 <s> CHANGE 0.0000
+-2.0000 <s> CLOSE 0.0000
+-2.0000 <s> COMMAND 0.0000
+-2.0000 <s> COMMANDS 0.0000
+-2.0000 <s> CONVERTER 0.0000
+-2.0000 <s> COPY 0.0000
+-2.0000 <s> CUT 0.0000
+-2.0000 <s> DATE 0.0000
+-2.0000 <s> DELETE 0.0000
+-2.0000 <s> DISABLE 0.0000
+-2.0000 <s> EDIT 0.0000
+-2.0000 <s> ENABLE 0.0000
+-2.0000 <s> EXIT 0.0000
+-2.0000 <s> EXPORT 0.0000
+-2.0000 <s> FILE 0.0000
+-2.0000 <s> FIND 0.0000
+-2.0000 <s> GOOGLE 0.0000
+-2.0000 <s> HELP 0.0000
+-2.0000 <s> HTML 0.0000
+-2.0000 <s> LATEX 0.0000
+-2.0000 <s> LAUNCH 0.0000
+-2.0000 <s> LEFT 0.0000
+-2.0000 <s> MAPPER 0.0000
+-2.0000 <s> NEW 0.0000
+-2.0000 <s> OFFLINE 0.0000
+-2.0000 <s> OK 0.0000
+-2.0000 <s> OPEN 0.0000
+-2.0000 <s> ORIENTATION 0.0000
+-2.0000 <s> PASTE 0.0000
+-2.0000 <s> PDF 0.0000
+-2.0000 <s> PREFERENCES 0.0000
+-2.0000 <s> PRINT 0.0000
+-2.0000 <s> REDO 0.0000
+-2.0000 <s> REPLACE 0.0000
+-2.0000 <s> RIGHT 0.0000
+-2.0000 <s> RTF 0.0000
+-2.0000 <s> SAVE 0.0000
+-2.0000 <s> SETTINGS 0.0000
+-2.0000 <s> SHORTCUT 0.0000
+-2.0000 <s> STATUS 0.0000
+-2.0000 <s> TIME 0.0000
+-2.0000 <s> TOOLS 0.0000
+-2.0000 <s> TOP 0.0000
+-2.0000 <s> UNDO 0.0000
+-2.0000 <s> VIEW 0.0000
+-2.0000 <s> WIKI 0.0000
+-0.3010 ABOUT </s> -0.3010
+-0.3010 AND </s> -0.3010
+-0.3010 AS </s> -0.3010
+-0.3010 BOTTOM </s> -0.3010
+-0.3010 CHANGE </s> -0.3010
+-0.3010 CLOSE </s> -0.3010
+-0.3010 COMMAND </s> -0.3010
+-0.3010 COMMANDS </s> -0.3010
+-0.3010 CONVERTER </s> -0.3010
+-0.3010 COPY </s> -0.3010
+-0.3010 CUT </s> -0.3010
+-0.3010 DATE </s> -0.3010
+-0.3010 DELETE </s> -0.3010
+-0.3010 DISABLE </s> -0.3010
+-0.3010 EDIT </s> -0.3010
+-0.3010 ENABLE </s> -0.3010
+-0.3010 EXIT </s> -0.3010
+-0.3010 EXPORT </s> -0.3010
+-0.3010 FILE </s> -0.3010
+-0.3010 FIND </s> -0.3010
+-0.3010 GOOGLE </s> -0.3010
+-0.3010 HELP </s> -0.3010
+-0.3010 HTML </s> -0.3010
+-0.3010 LATEX </s> -0.3010
+-0.3010 LAUNCH </s> -0.3010
+-0.3010 LEFT </s> -0.3010
+-0.3010 MAPPER </s> -0.3010
+-0.3010 NEW </s> -0.3010
+-0.3010 OFFLINE </s> -0.3010
+-0.3010 OK </s> -0.3010
+-0.3010 OPEN </s> -0.3010
+-0.3010 ORIENTATION </s> -0.3010
+-0.3010 PASTE </s> -0.3010
+-0.3010 PDF </s> -0.3010
+-0.3010 PREFERENCES </s> -0.3010
+-0.3010 PRINT </s> -0.3010
+-0.3010 REDO </s> -0.3010
+-0.3010 REPLACE </s> -0.3010
+-0.3010 RIGHT </s> -0.3010
+-0.3010 RTF </s> -0.3010
+-0.3010 SAVE </s> -0.3010
+-0.3010 SETTINGS </s> -0.3010
+-0.3010 SHORTCUT </s> -0.3010
+-0.3010 STATUS </s> -0.3010
+-0.3010 TIME </s> -0.3010
+-0.3010 TOOLS </s> -0.3010
+-0.3010 TOP </s> -0.3010
+-0.3010 UNDO </s> -0.3010
+-0.3010 VIEW </s> -0.3010
+-0.3010 WIKI </s> -0.3010
+
+\3-grams:
+-0.3010 <s> ABOUT </s>
+-0.3010 <s> AND </s>
+-0.3010 <s> AS </s>
+-0.3010 <s> BOTTOM </s>
+-0.3010 <s> CHANGE </s>
+-0.3010 <s> CLOSE </s>
+-0.3010 <s> COMMAND </s>
+-0.3010 <s> COMMANDS </s>
+-0.3010 <s> CONVERTER </s>
+-0.3010 <s> COPY </s>
+-0.3010 <s> CUT </s>
+-0.3010 <s> DATE </s>
+-0.3010 <s> DELETE </s>
+-0.3010 <s> DISABLE </s>
+-0.3010 <s> EDIT </s>
+-0.3010 <s> ENABLE </s>
+-0.3010 <s> EXIT </s>
+-0.3010 <s> EXPORT </s>
+-0.3010 <s> FILE </s>
+-0.3010 <s> FIND </s>
+-0.3010 <s> GOOGLE </s>
+-0.3010 <s> HELP </s>
+-0.3010 <s> HTML </s>
+-0.3010 <s> LATEX </s>
+-0.3010 <s> LAUNCH </s>
+-0.3010 <s> LEFT </s>
+-0.3010 <s> MAPPER </s>
+-0.3010 <s> NEW </s>
+-0.3010 <s> OFFLINE </s>
+-0.3010 <s> OK </s>
+-0.3010 <s> OPEN </s>
+-0.3010 <s> ORIENTATION </s>
+-0.3010 <s> PASTE </s>
+-0.3010 <s> PDF </s>
+-0.3010 <s> PREFERENCES </s>
+-0.3010 <s> PRINT </s>
+-0.3010 <s> REDO </s>
+-0.3010 <s> REPLACE </s>
+-0.3010 <s> RIGHT </s>
+-0.3010 <s> RTF </s>
+-0.3010 <s> SAVE </s>
+-0.3010 <s> SETTINGS </s>
+-0.3010 <s> SHORTCUT </s>
+-0.3010 <s> STATUS </s>
+-0.3010 <s> TIME </s>
+-0.3010 <s> TOOLS </s>
+-0.3010 <s> TOP </s>
+-0.3010 <s> UNDO </s>
+-0.3010 <s> VIEW </s>
+-0.3010 <s> WIKI </s>
+
+\end\

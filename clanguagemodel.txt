@@ -1,0 +1,170 @@
+newline
+class
+function
+add
+subtract
+multiply
+divide
+mod
+power
+standard
+local
+assert.h
+stdio.h
+complex.h
+ctype.h
+type.h
+errno.h
+fenv.h
+float.h
+inttypes.h
+iso646.h
+limits.h
+locale.h
+math.h
+setjmp.h
+signal.h
+stdalign.h
+stdarg.h
+stdatomic.h
+stdbool.h
+stddef.h
+stdint.h
+stdlib.h
+string.h
+tgmath.h
+threads.h
+time.h
+uchar.h
+wchar.h
+wctype.h
+auto
+struct
+break
+else
+switch
+case
+enum
+register
+typedef
+extern
+return
+union
+const
+continue
+for
+default
+goto
+sizeof
+volatile
+do
+if
+static
+while
+void
+short
+unsigned
+signed
+long
+char
+int
+float
+double
+pointer int
+pointer float
+pointer char
+pointer double
+pointer long
+greater than
+greater than or equal to
+less than
+less than or equal to
+bitwise and
+bitwise or
+bitwise not
+and
+or
+not
+increment
+decrement
+not equal
+complement
+plus equal
+minus equal
+multiply equal
+divide equal
+mod equal
+left shift
+right shift
+left shift equal
+right shift equal
+and equal
+xor equal
+or equal
+semicolon
+name start
+name end
+plus
+minus
+divide
+asterisk
+#define
+#include
+#undef
+#ifdef
+#ifndef
+#if
+#else
+#elif
+#endif
+#error
+#pragma
+macro file
+macro line
+macro date
+macro time
+macro standard
+DOT
+file new ok
+file open ok
+file save ok
+file save as ok
+file print ok
+file close ok
+file close all ok
+file delete file ok
+file exit ok
+edit undo ok
+edit redo ok
+edit copy ok
+edit cut ok
+edit paste ok
+edit delete ok
+edit find ok
+edit replace ok
+edit date and time ok
+view disable toolbar ok
+view enable toolbar ok
+view enable command line ok
+view disable command line ok
+view enable status line ok
+view disable status line ok
+view change orientation top ok
+view change orientation bottom ok
+view change orientation right ok
+view change orientation left ok
+settings preferences ok
+settings shortcut mapper ok
+tools converter ok
+tools export as pdf ok
+tools export as rtf ok
+tools export as latex ok
+tools export as html ok
+tools google ok
+tools wiki ok
+tools launch ok
+help offline ok
+help commands ok
+help about ok
+Yes
+No

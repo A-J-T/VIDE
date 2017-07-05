@@ -1,0 +1,41 @@
+file new ok
+file open ok
+file save ok
+file save as ok
+file print ok
+file close ok
+file close all ok
+file delete file ok
+file exit ok
+edit undo ok
+edit redo ok
+edit copy ok
+edit cut ok
+edit paste ok
+edit delete ok
+edit find ok
+edit replace ok
+edit date and time ok
+view disable toolbar ok
+view enable toolbar ok
+view enable command line ok
+view disable command line ok
+view enable status line ok
+view disable status line ok
+view change orientation top ok
+view change orientation bottom ok
+view change orientation right ok
+view change orientation left ok
+settings preferences ok
+settings shortcut mapper ok
+tools converter ok
+tools export as pdf ok
+tools export as rtf ok
+tools export as latex ok
+tools export as html ok
+tools google ok
+tools wiki ok
+tools launch ok
+help offline ok
+help commands ok
+help about ok
